@@ -1,5 +1,5 @@
-##<h1 align="center">👋 Hi there, I'm legend350</h1>
-<h3 align="center">🚀 Software Developer | System Builder</h3>
+##<h1 align="center">👋 Hi there, I'm greatlegend</h1>
+<h3 align="center">🚀 Software Developer | System Builder | Generative AI Engineer</h3>
 
 <p align="center">
   🌍 Focused on building real-world systems &nbsp;|&nbsp; 🧠 Always improving
@@ -9,22 +9,40 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on **medical and healthcare platforms**
-- 👨‍💻 Building systems for **patients, doctors, hospitals, and lab services**
-- ⚙️ Focused on **booking systems, lab services, prescriptions, and medical records**
+- 🔭 Currently working on **medical, healthcare and learning Application**
+- 👨‍💻 Building systems for **patients, doctors, hospitals, medical stores, Students, lab services and library**
+- ⚙️ Focused on **Connecting medical professional, medical stores, medical schools and organizations with users globally**
 - 🌍 Passionate about creating **practical solutions that solve real-world problems**
-- 🧩 Designing workflows for **communication (chat, voice, video)** between users and providers
+- 🧩 Designing workflows for **communication (chat, voice, video)** between users and medical professional providers
 - 💡 Interested in **system design, structure, and scalable platforms**
 
 ---
 
 ### 🛠️ Projects & Focus Areas
 
-- 🏥 Medical platform connecting **patients, doctors, and hospitals**
+- 🏥 Medical platform connecting **patients, doctors, hospitals, medical stores, medical schools and organizations**
 - 🧪 Medical lab service system (booking → sample collection → results)
 - 💊 Online prescription and medication purchase system
 - 💬 Real-time communication systems (chat, voice call, video call)
 - 📊 Payment tracking and records management
+- - 👤 **Patients**  
+  Book appointments, access medical records, order medications, and communicate with healthcare providers.
+
+- 🩺 **Doctors**  
+  Provide consultations, diagnose patients, issue prescriptions, and monitor treatment progress.
+
+- 🏥 **Hospitals**  
+  Manage patient care, admissions, lab services, and institutional records.
+
+- 💊 **Medical Stores (Pharmacies)**  
+  Receive digital prescriptions, manage drug inventory, and deliver medications to patients.
+
+- 🎓 **Medical Schools**  
+  Facilitate student training, research collaboration, access to real-world case studies, and interaction with healthcare professionals.
+
+- 🌍 **Healthcare Organizations**  
+  Monitor healthcare trends, manage public health programs, oversee compliance, and analyze system-wide data.
+
 
 ---
 
